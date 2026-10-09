@@ -1,0 +1,17 @@
+:root {
+  --color-ink: #242720;
+  --color-muted: #73766d;
+  --color-paper: #f8f6ef;
+  --color-white: #fffefa;
+  --color-coral: #e86f51;
+  --color-coral-dark: #bf5038;
+  --color-sand: #e9e0d0;
+  --color-blue: #b7d3df;
+  --color-green: #cbd6b6;
+  --color-yellow: #f0d58a;
+  --font-body: Arial, Helvetica, sans-serif;
+  --font-display: Georgia, 'Times New Roman', serif;
+  --container-width: 1160px;
+  --radius-card: 18px;
+  --shadow-soft: 0 18px 50px rgb(36 39 32 / 8%);
+}

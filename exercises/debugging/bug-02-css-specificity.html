@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hata 02 — CSS specificity</title>
+  <style>
+    p { color: #e86f51; }
+    .notice { color: #247a49; }
+    #important-notice { color: #315d9b; }
+    .notice { color: #242720; }
+  </style>
+</head>
+<body>
+  <p id="important-notice" class="notice">Bu mesajın rengi ne olmalı? CSS kurallarını sırala ve açıkla.</p>
+</body>
+</html>
